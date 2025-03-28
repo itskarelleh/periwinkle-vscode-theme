@@ -1,0 +1,129 @@
+{
+    "name": "Periwinkle Light",
+    "type": "light",
+    "semanticHighlighting": true,
+    "semanticTokenColors": {
+      "enumMember": { "foreground": "#D4A007" },
+      "variable.constant": { "foreground": "#5E4DFF" },
+      "variable.defaultLibrary": { "foreground": "#FF7EB9" }
+    },
+    "tokenColors": [
+      {
+        "name": "Background",
+        "scope": "meta.embedded, text.source",
+        "settings": { "background": "#F0EDFF" }
+      },
+      {
+        "name": "Text",
+        "scope": "variable.parameter.function",
+        "settings": { "foreground": "#2D2A4F" }
+      },
+      {
+        "name": "Punctuation",
+        "scope": "punctuation.*, meta.delimiter",
+        "settings": { "foreground": "#6B5FCF" }
+      },
+      {
+        "name": "Strings",
+        "scope": "string",
+        "settings": { "foreground": "#00B8C3" }
+      },
+      {
+        "name": "Functions",
+        "scope": "entity.name.function, support.function",
+        "settings": { "foreground": "#3D9970" }
+      },
+      {
+        "name": "Keywords",
+        "scope": "keyword",
+        "settings": { "foreground": "#5E4DFF", "fontStyle": "bold" }
+      },
+      {
+        "name": "Comments",
+        "scope": "comment",
+        "settings": { "foreground": "#8A85AE", "fontStyle": "italic" }
+      }
+    ],
+    "colors": {
+        // Core Editor
+        "editor.background": "#F8F7FF",
+        "editor.foreground": "#2D2A4F",
+        "editorCursor.foreground": "#5E4DFF",
+        "editor.lineHighlightBackground": "#E6E0FF40",
+        "editor.selectionBackground": "#D6D0FF80",
+    
+        // UI Components
+        "activityBar.background": "#E6E0FF",
+        "activityBar.foreground": "#4A3FB6",
+        "sideBar.background": "#F0EDFF",
+        "sideBarSectionHeader.background": "#E6E0FF",
+        "statusBar.background": "#D6D0FF",
+        "statusBar.foreground": "#2D2A4F",
+    
+        // Tabs
+        "tab.activeBackground": "#FFFFFF",
+        "tab.activeForeground": "#2D2A4F",
+        "tab.inactiveBackground": "#F0EDFF",
+        "tab.inactiveForeground": "#6B5FCF",
+    
+        // Lists/Trees
+        "list.activeSelectionBackground": "#D6D0FF",
+        "list.hoverBackground": "#E6E0FF",
+        "list.focusBackground": "#C9C0FF",
+    
+        // Inputs
+        "input.background": "#FFFFFF",
+        "input.border": "#D6D0FF",
+        "input.placeholderForeground": "#8A85AE",
+    
+        // Buttons
+        "button.background": "#6B5FCF",
+        "button.foreground": "#FFFFFF",
+        "button.hoverBackground": "#5E4DFF",
+    
+        // Terminal
+        "terminal.ansiBrightWhite": "#F8F7FF",
+        "terminal.ansiWhite": "#E6E0FF",
+        "terminal.background": "#F0EDFF",
+        "terminal.foreground": "#2D2A4F",
+    
+        // Diff Editor
+        "diffEditor.insertedTextBackground": "#E6FFEC30",
+        "diffEditor.removedTextBackground": "#FFEBE930",
+    
+        // Highlights
+        "focusBorder": "#A59BFF",
+        "selection.background": "#D6D0FF",
+        "widget.shadow": "#D6D0FF",
+    
+        // Git Colors
+        "gitDecoration.addedResourceForeground": "#3D9970",
+        "gitDecoration.modifiedResourceForeground": "#D4A007",
+        "gitDecoration.deletedResourceForeground": "#FF5F5F",
+    
+        // Minimap
+        "minimap.background": "#F0EDFF",
+        "minimap.selectionHighlight": "#D6D0FF80",
+    
+        // Scrollbars
+        "scrollbarSlider.background": "#C9C0FF",
+        "scrollbarSlider.hoverBackground": "#B8ACFF",
+    
+        // Panel
+        "panel.background": "#F0EDFF",
+        "panelTitle.activeForeground": "#4A3FB6",
+    
+        // Notification
+        "notifications.background": "#F0EDFF",
+        "notificationCenter.border": "#D6D0FF",
+    
+        // Debug
+        "debugToolBar.background": "#F0EDFF",
+        "debugExceptionWidget.background": "#F0EDFF",
+    
+        // Extras
+        "editorWhitespace.foreground": "#D6D0FF",
+        "editorIndentGuide.background": "#E6E0FF",
+        "editorIndentGuide.activeBackground": "#C9C0FF"
+      }
+}

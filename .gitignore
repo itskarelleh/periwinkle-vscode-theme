@@ -1,0 +1,4 @@
+node_modules
+*.vsix
+
+.early.coverage

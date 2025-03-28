@@ -1,0 +1,26 @@
+{
+  "name": "periwinkle",
+  "displayName": "Periwinkle",
+  "description": "A periwinkle color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Periwinkle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Periwinkle-color-theme.json"
+      },
+      {
+        "label": "Periwinkle Light",
+        "uiTheme": "vs-light",
+        "path": "./themes/periwinkle-color-theme-light.json"
+      }
+    ]
+  }
+}
