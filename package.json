@@ -3,12 +3,12 @@
   "displayName": "Periwinkle Color Theme",
   "description": "A periwinkle color theme",
   "publisher": "itskarelleh",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository":{ 
     "type": "git",
     "url": "https://github.com/itskarelleh/periwinkle-vscode-theme"},
   "engines": {
-    "vscode": "^1.98.0"
+    "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
