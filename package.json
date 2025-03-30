@@ -15,11 +15,6 @@
         "label": "Periwinkle",
         "uiTheme": "vs-dark",
         "path": "./themes/Periwinkle-color-theme.json"
-      },
-      {
-        "label": "Periwinkle Light",
-        "uiTheme": "vs-light",
-        "path": "./themes/periwinkle-color-theme-light.json"
       }
     ]
   }
