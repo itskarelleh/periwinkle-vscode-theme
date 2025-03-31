@@ -162,7 +162,7 @@
 		},
 		{
 		  "name": "c++ block",
-		  "scope": "punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c",
+		  "scope": "punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c",
 		  "settings": {
 			"foreground": "#000000"
 		  }
@@ -544,8 +544,7 @@
 			"storage.type.type.tsx"
 		],
 		"settings": {
-			"foreground": "#070224",
-			// "fontStyle": "bold"
+			"foreground": "#070224"
 		}
 		},
 		{
@@ -557,7 +556,7 @@
 			"keyword.declaration.extends.tsx"
 		],
 		"settings": {
-			"foreground": "#FFA500",
+			"foreground": "#ffd78c",
 			"fontStyle": "bold"
 		}
 		},
@@ -779,7 +778,7 @@
 		  "name": "Constant other symbol",
 		  "scope": "constant.other.symbol",
 		  "settings": {
-			"foreground": "#ffcd58"
+			"foreground": "#ffc58f"
 		  }
 		},
 		{
@@ -1161,9 +1160,9 @@
 		},
 		{
 		  "name": "php function-resets",
-		  "scope": "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
+		  "scope": "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
 		  "settings": {
-			"foreground": "#000000"
+			"foreground": "#221a4c"
 		  }
 		},
 		{
@@ -1316,7 +1315,7 @@
 		{
 		  "scope": "token.info-token",
 		  "settings": {
-			"foreground": "#82ff5f"
+			"foreground": "#b7ffa3"
 		  }
 		},
 		{
@@ -1328,7 +1327,7 @@
 		{
 		  "scope": "token.error-token",
 		  "settings": {
-			"foreground": "#f44747"
+			"foreground": "#D35400"
 		  }
 		},
 		{
@@ -1876,7 +1875,7 @@
 		"focusBorder": "#635c82",
 		"selection.background": "#9079ff",
 		"scrollbar.shadow": "#6e5acd",
-		"activityBar.foreground": "#d3caff",
+		"activityBar.foreground": "#282247",
 		"activityBar.background": "#9083d1",
 		"activityBar.inactiveForeground": "#ffffff66",
 		"activityBarBadge.foreground": "#ffffff",
@@ -1908,7 +1907,7 @@
 		"statusBar.background": "#7d65f5",
 		"statusBarItem.hoverBackground": "#ffffff1f",
 		"statusBar.debuggingBackground": "#c74771",
-		"statusBar.debuggingForeground": "#ffffff",
+		"statusBar.debuggingForeground": "#282247",
 		"statusBar.noFolderBackground": "#9083d1",
 		"statusBar.noFolderForeground": "#ffffff",
 		"statusBarItem.remoteBackground": "#588c24",
@@ -1942,7 +1941,7 @@
 		"input.placeholderForeground": "#aa9aff",
 		"textLink.foreground": "#69f091",
 		"editor.background": "#9083d1",
-		"editor.foreground": "#f0ecff",
+		"editor.foreground": "#282247",
 		"editorLineNumber.foreground": "#363347c1",
 		"editorCursor.foreground": "#06d185",
 		"editorCursor.background": "#000000",
@@ -1975,7 +1974,7 @@
 		"editor.foldBackground": "#264f784d",
 		"editorOverviewRuler.background": "#25252500",
 		"editorOverviewRuler.border": "#7f7f7f4d",
-		"editorError.foreground": "#f48771",
+		"editorError.foreground": "#D35400",
 		"editorError.background": "#B73A3400",
 		"editorError.border": "#ffffff00",
 		"editorWarning.foreground": "#f2c600",
@@ -1987,7 +1986,7 @@
 		"editorGutter.background": "#9083d1",
 		"editorGutter.modifiedBackground": "#1073cb",
 		"editorGutter.addedBackground": "#82b614",
-		"editorGutter.deletedBackground": "#d10451",
+		"editorGutter.deletedBackground": "#D35400",
 		"editorGutter.foldingControlForeground": "#2c159f",
 		"editorCodeLens.foreground": "#4828e6",
 		"editorGroup.border": "#4e33d9",
@@ -2109,10 +2108,10 @@
 		"dropdown.border": "#00000000",
 		"minimapGutter.addedBackground": "#82b614",
 		"minimapGutter.modifiedBackground": "#1073cb",
-		"minimapGutter.deletedBackground": "#d10451",
+		"minimapGutter.deletedBackground": "#D35400",
 		"minimap.findMatchHighlight": "#40a78178",
 		"minimap.selectionHighlight": "#61ff794c",
-		"minimap.errorHighlight": "#ebf471",
+		"minimap.errorHighlight": "#D35400",
 		"minimap.warningHighlight": "#f2c600",
 		"minimap.background": "#9083d1",
 		"sideBar.dropBackground": "#796ac4",
