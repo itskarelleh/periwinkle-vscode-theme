@@ -1,6 +1,6 @@
 # Periwinkle
 
-![Periwinkle Theme v0.0.1](v0-0-1.png)
+![Periwinkle Theme v0.1.0](v0-1-0.png)
 
 Why Periwinkle?
 I created Periwinkle because I was tired of seeing the same traditional dark themes in the marketplace. I wanted to see more soft dark themes, themes that are not completely dark but not completely light either. At the time I also chose this color because I wanted it to match my favorite Logitech keyboard that's periwinkle 😅
